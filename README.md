@@ -1,4 +1,4 @@
-# Python File Projects – Portfolio-Grade File Handling
+# Python File Projects – File Handling
 
 ## Disclaimer
 
