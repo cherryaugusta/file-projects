@@ -1,0 +1,20 @@
+Python File Handling Notes
+
+File Modes:
+- r  : read
+- w  : write (truncate)
+- a  : append
+- rb : read binary
+- wb : write binary
+
+Best Practices:
+- Always use context managers
+- Prefer pathlib over os.path
+- Specify encoding explicitly
+- Handle exceptions deliberately
+- Separate I/O from business logic
+
+Testing Tips:
+- Use temporary directories
+- Avoid reliance on real data files
+- Test edge cases and malformed input

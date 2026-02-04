@@ -1,0 +1,20 @@
+Assignment 1: Python File Operations
+
+Objective:
+Practice safe and idiomatic file handling in Python.
+
+Tasks:
+1. Create a text file containing a list of tasks
+2. Read the file line by line
+3. Append additional tasks without overwriting existing data
+4. Convert the text file into CSV format
+5. Create a backup copy of the original file
+
+Constraints:
+- Use pathlib for all file paths
+- Handle missing files gracefully
+- Write reusable, testable functions
+
+Deliverables:
+- Python script implementing the tasks
+- Unit tests validating correct behavior

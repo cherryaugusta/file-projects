@@ -1,0 +1,6 @@
+Backup File
+
+This file is a backup copy created as part of file handling exercises.
+It mirrors the content of python_notes.txt at the time of backup creation.
+
+Backup Date: 2026-02-03
