@@ -49,9 +49,6 @@ pytest
 - Logging used instead of print statements
 - CI validates all commits for quality enforcement
 - Backup files demonstrate safe file operations and versioning
-
-## Repository Structure
-
 ```
 file-projects/
 ├── src/
@@ -89,7 +86,8 @@ file-projects/
 ├── tests/
 │   ├── test_io_utils.py
 │   ├── test_parsers.py
-│   └── test_finance.py
+│   ├── test_finance.py
+│   └── test_diary.py
 ├── .gitignore
 ├── .pre-commit-config.yaml
 ├── pyproject.toml
